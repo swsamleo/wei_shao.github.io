@@ -13,7 +13,9 @@ Dr Wei Shao is working as a Research Fellow at [CIDDA](https://www.rmit.edu.au/r
 I obtained PhD in the RMIT supervised by [Prof. Salim](https://fsalim.github.io/) and Dr. Chan. I was awarded the scholarship from [SUPP](https://www.rmit.edu.au/news/all-news/2015/may/making-connections/meet-our-green-team) project. I worked as a Researcher Assistant at the University of Hong Kong from 2012 to 2014 in Computer Science department. I was carrying out an [ITF](http://www.google.com/url?q=http%3A%2F%2Fwww.itf.gov.hk%2Fl-eng%2FWhatsNew.asp%3Ftextmode%3D0&sa=D&sntz=1&usg=AFQjCNELhLKEdHv4J7F9L9gmz-weK58d6g) project involved topics include human detection, tracking and also interactive segmentation inside videos. These works were financed under ITF project sponsored by The Government of Hong Kong, Microsoft, Astri and etc. I received the Master of Science ( *pass with distinction* ) in Computer Science (CS) of The University of Hong Kong.
 
 
-Always actively seeking a research intern/visiting student position. Feel free to reach me if you find a match. (Especially students in Melbourne, we provide research Visiting Student positions to publish papers in data and AI areas )
+Looking for Talent Students!
+======
+Always actively seeking a research intern/visiting student position. Feel free to [reach me](wei.shao@rmit.edu.au) if you find a match. (Especially students in Melbourne, we provide research Visiting Student positions to publish papers in data and AI areas )
 
 
 Supervised Students
