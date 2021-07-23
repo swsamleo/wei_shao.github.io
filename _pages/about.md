@@ -19,7 +19,7 @@ Always actively seeking a research intern/visiting student position. Feel free t
 
 Academic Activities
 ======
-TPC Member
+**TPC Member:** 
 SECON 2021, CIKM2021, AAAI2021, ITEM2021, AAAI2020, AusDM2018, ICAC2018, ICCCN2019, WISC2019, ITEM2020
 
 Supervised Students
