@@ -17,10 +17,14 @@ Looking for Talent Students!
 ======
 Always actively seeking a research intern/visiting student position. Feel free to [reach me](wei.shao@rmit.edu.au) if you find a match. (Especially students in Melbourne, we provide research Visiting Student positions to publish papers in data and AI areas )
 
+Academic Activities
+======
+TPC Member
+SECON 2021, CIKM2021, AAAI2021, ITEM2021, AAAI2020, AusDM2018, ICAC2018, ICCCN2019, WISC2019, ITEM2020
 
 Supervised Students
 ======
 * [Nan Gao](nancygao.com), PhD Student -- Ubiquitous Computing
-* Arian Prabowo, PhD Student -- Spatio-Temporal Deep Learning of Trajectories
+* [Arian Prabowo](https://www.arianprabowo.com/home), PhD Student -- Spatio-Temporal Deep Learning of Trajectories
 * Kai Qin, PhD Student -- Graph Alignment and optimisation
 * [Sichen Zhao](https://www.sichenzhao.com/) -- PhD Student -- XAI and spatio-temporal data
