@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Dr Wei Shao is working as a Research Fellow at [CIDDA](https://www.rmit.edu.au/research/centres-collaborations/centre-for-information-discovery-and-data-analytics), RMIT now.
+Dr Wei Shao is working as a Research Fellow at [CIDDA](https://www.rmit.edu.au/research/centres-collaborations/centre-for-information-discovery-and-data-analytics), RMIT now. I am now working in the [ARC Centre of Excellence in Automated Decision Making and Society (ADMS)](https://www.admscentre.org.au/). My research interest includes fairness issue in machine learning, wireless sensing, reinforcement learning in routing system, Internet of Things, and smart cities.
+
+I obtained PhD in the RMIT supervised by [Dr. Salim](https://fsalim.github.io/) and Dr. Chan. I was awarded the scholarship from [SUPP] (https://www.rmit.edu.au/news/all-news/2015/may/making-connections/meet-our-green-team) project. I worked as a Researcher Assistant at the University of Hong Kong from 2012 to 2014 in Computer Science department. I was carrying out an [ITF](http://www.google.com/url?q=http%3A%2F%2Fwww.itf.gov.hk%2Fl-eng%2FWhatsNew.asp%3Ftextmode%3D0&sa=D&sntz=1&usg=AFQjCNELhLKEdHv4J7F9L9gmz-weK58d6g) project involved topics include human detection, tracking and also interactive segmentation inside videos. These works were financed under ITF project sponsored by The Government of Hong Kong, Microsoft, Astri and etc.
+
+I received the Master of Science ( pass with distinction ) in Computer Science (CS) of The University of Hong Kong.
 
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
 
 A data-driven personal website
 ======
