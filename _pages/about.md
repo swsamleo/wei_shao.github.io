@@ -19,10 +19,10 @@ Always actively seeking a research intern/visiting student position. Feel free t
 Supervised Students
 ======
 Supervised Students
-Nan Gao, PhD Student -- Ubiquitous Computing
-Arian Prabowo, PhD Student -- Spatio-Temporal Deep Learning of Trajectories
-Kai Qin, PhD Student -- Graph Alignment and optimisation
-Sichen Zhao -- PhD Student -- XAI and spatio-temporal data
+* [Nan Gao](nancygao.com), PhD Student -- Ubiquitous Computing
+* Arian Prabowo, PhD Student -- Spatio-Temporal Deep Learning of Trajectories
+* Kai Qin, PhD Student -- Graph Alignment and optimisation
+* Sichen Zhao -- PhD Student -- XAI and spatio-temporal data
 
 
 Getting started
