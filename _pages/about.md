@@ -17,6 +17,11 @@ Looking for Talent Students!
 ======
 Always actively seeking a research intern/visiting student position. Feel free to send your CV to [me](wei.shao@rmit.edu.au) if you find a match. We provide research visiting student positions to publish high-quality papers in data, AI, Ubiquitous and HCI areas.
 
+Multiple Research and Open-Source Projects are available for Visiting Students or Collaborations:
+1) Fairness issues in Deep learning
+2) Combinatorial Optimisation Problem with Reinforcement Learning/Graph Neural Network
+3) Autonomy Traffic using Reinforcement Learning
+
 Academic Activities
 ======
 **TPC Member:**
