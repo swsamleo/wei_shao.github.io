@@ -15,7 +15,7 @@ I obtained PhD in the RMIT supervised by [Prof. Salim](https://fsalim.github.io/
 
 Looking for Talent Students!
 ======
-Always actively seeking a research intern/visiting student position. Feel free to [reach me](wei.shao@rmit.edu.au) if you find a match. We provide research visiting student positions to publish high-quality papers in data and AI areas.
+Always actively seeking a research intern/visiting student position. Feel free to send your CV to [me](wei.shao@rmit.edu.au) if you find a match. We provide research visiting student positions to publish high-quality papers in data, AI, Ubiquitous and HCI areas.
 
 Academic Activities
 ======
@@ -24,7 +24,7 @@ SECON 2021, CIKM2021, AAAI2021, ITEM2021, AAAI2020, AusDM2018, ICAC2018, ICCCN20
 
 Supervised Students
 ======
-* [Nan Gao](nancygao.com), PhD Student -- Ubiquitous Computing
+* [Nan Gao](nancygao.com), PhD Student -- Ubiquitous Computing and HCI
 * [Arian Prabowo](https://www.arianprabowo.com/home), PhD Student -- Spatio-Temporal Deep Learning of Trajectories
 * Kai Qin, PhD Student -- Graph Alignment and optimisation
-* [Sichen Zhao](https://www.sichenzhao.com/) -- PhD Student -- XAI and spatio-temporal data
+* [Sichen Zhao](https://www.sichenzhao.com/) -- PhD Student -- XAI and Spatio-temporal data mining
