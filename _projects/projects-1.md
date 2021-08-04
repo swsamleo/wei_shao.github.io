@@ -1,5 +1,5 @@
 ---
-title: "project item number 1"
+title: "Mornington Smarter Cities and Suburbs Project (SCSP) project"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
