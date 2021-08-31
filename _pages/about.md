@@ -24,14 +24,12 @@ Multiple Research and Open-Source Projects are available for Visiting Students o
 
 Selected papers
 ======
-1. Wei Shao, Flora D. Salim, Tao Gu, Ngoc-Thanh Dinh, Jeffrey Chan: Traveling Officer Problem: Managing Car Parking Violations Efficiently Using Sensor Data. IEEE Internet Things J. 5(2): 802-810 (2018) [[PDF]](https://swsamleo.github.io/wei_shao.github.io/files/paper1.pdf) [Code]
-2. Wei Shao, Thuong Nguyen, A. Kai Qin, Moustafa Youssef, Flora D. Salim: BLEDoorGuard: A Device-Free Person Identification Framework Using Bluetooth Signals for Door Access. IEEE Internet Things J. 5(6): 5227-5239 (2018)
+1. Wei Shao, Flora D. Salim, Tao Gu, Ngoc-Thanh Dinh, Jeffrey Chan: Traveling Officer Problem: Managing Car Parking Violations Efficiently Using Sensor Data. IEEE Internet Things J. 5(2): 802-810 (2018) [[PDF]](https://swsamleo.github.io/wei_shao.github.io/files/paper1.pdf) [Code](https://github.com/cruiseresearchgroup/Travelling-Officer-Problem)
+2. Wei Shao, Thuong Nguyen, A. Kai Qin, Moustafa Youssef, Flora D. Salim: BLEDoorGuard: A Device-Free Person Identification Framework Using Bluetooth Signals for Door Access. IEEE Internet Things J. 5(6): 5227-5239 (2018) [[PDF]](https://swsamleo.github.io/wei_shao.github.io/files/paper2.pdf)
 3. Wei Shao, Flora D. Salim, Jeffrey Chan, Kyle Kai Qin, Jiaman Ma, Bradley Feest:
-OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation Awareness. PerCom 2019: 192-201
-4. Wei Shao, Sichen Zhao, Zhen Zhang, Shiyu Wang, Mohammad Saiedur Rahaman, Andy Song, Flora D. Salim:
-FADACS: A Few-Shot Adversarial Domain Adaptation Architecture for Context-Aware Parking Availability Sensing. PerCom 2021: 1-10
-5. Wei Shao, Flora D. Salim, Andy Song, Athman Bouguettaya:
-Clustering Big Spatiotemporal-Interval Data. IEEE Trans. Big Data 2(3): 190-203 (2016)
+OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation Awareness. PerCom 2019: 192-201 [[PDF]](https://swsamleo.github.io/wei_shao.github.io/files/paper3.pdf)
+4. Wei Shao, Sichen Zhao, Zhen Zhang, Shiyu Wang, Mohammad Saiedur Rahaman, Andy Song, Flora D. Salim: FADACS: A Few-Shot Adversarial Domain Adaptation Architecture for Context-Aware Parking Availability Sensing. PerCom 2021: 1-10 [[PDF]](https://swsamleo.github.io/wei_shao.github.io/files/paper4.pdf) [Code](https://github.com/swsamleo/FADACS_Parking_Prediction)
+5. Wei Shao, Flora D. Salim, Andy Song, Athman Bouguettaya: Clustering Big Spatiotemporal-Interval Data. IEEE Trans. Big Data 2(3): 190-203 (2016) [[PDF]](https://swsamleo.github.io/wei_shao.github.io/files/paper5.pdf)
 
 Academic Activities
 ======
