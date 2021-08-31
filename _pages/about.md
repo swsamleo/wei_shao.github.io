@@ -24,7 +24,7 @@ Multiple Research and Open-Source Projects are available for Visiting Students o
 
 Selected papers
 ======
-1. Wei Shao, Flora D. Salim, Tao Gu, Ngoc-Thanh Dinh, Jeffrey Chan: Traveling Officer Problem: Managing Car Parking Violations Efficiently Using Sensor Data. IEEE Internet Things J. 5(2): 802-810 (2018) [[PDF]](https://github.com/swsamleo/wei_shao.github.io/blob/master/files/paper1.pdf)
+1. Wei Shao, Flora D. Salim, Tao Gu, Ngoc-Thanh Dinh, Jeffrey Chan: Traveling Officer Problem: Managing Car Parking Violations Efficiently Using Sensor Data. IEEE Internet Things J. 5(2): 802-810 (2018) [[PDF]](https://github.com/swsamleo/wei_shao.github.io/files/paper1.pdf)
 2. Wei Shao, Thuong Nguyen, A. Kai Qin, Moustafa Youssef, Flora D. Salim: BLEDoorGuard: A Device-Free Person Identification Framework Using Bluetooth Signals for Door Access. IEEE Internet Things J. 5(6): 5227-5239 (2018)
 3. Wei Shao, Flora D. Salim, Jeffrey Chan, Kyle Kai Qin, Jiaman Ma, Bradley Feest:
 OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation Awareness. PerCom 2019: 192-201
