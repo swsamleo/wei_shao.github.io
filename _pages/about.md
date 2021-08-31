@@ -22,6 +22,17 @@ Multiple Research and Open-Source Projects are available for Visiting Students o
 * __Combinatorial Optimisation Problem with Reinforcement Learning/Graph Neural Network__
 * __Autonomy Traffic using Reinforcement Learning__
 
+Selected papers
+======
+Wei Shao, Flora D. Salim, Tao Gu, Ngoc-Thanh Dinh, Jeffrey Chan: Traveling Officer Problem: Managing Car Parking Violations Efficiently Using Sensor Data. IEEE Internet Things J. 5(2): 802-810 (2018)
+Wei Shao, Thuong Nguyen, A. Kai Qin, Moustafa Youssef, Flora D. Salim: BLEDoorGuard: A Device-Free Person Identification Framework Using Bluetooth Signals for Door Access. IEEE Internet Things J. 5(6): 5227-5239 (2018)
+Wei Shao, Flora D. Salim, Jeffrey Chan, Kyle Kai Qin, Jiaman Ma, Bradley Feest:
+OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation Awareness. PerCom 2019: 192-201
+Wei Shao, Sichen Zhao, Zhen Zhang, Shiyu Wang, Mohammad Saiedur Rahaman, Andy Song, Flora D. Salim:
+FADACS: A Few-Shot Adversarial Domain Adaptation Architecture for Context-Aware Parking Availability Sensing. PerCom 2021: 1-10
+Wei Shao, Flora D. Salim, Andy Song, Athman Bouguettaya:
+Clustering Big Spatiotemporal-Interval Data. IEEE Trans. Big Data 2(3): 190-203 (2016)
+
 Academic Activities
 ======
 **TPC Member:**
