@@ -22,6 +22,7 @@ Multiple Research and Open-Source Projects are available for Visiting Students o
 * __Fairness issues in Deep learning__
 * __Combinatorial Optimization Problem with Reinforcement Learning/Graph Neural Network__
 * __Autonomy Traffic using Reinforcement Learning__
+* __Graph Neural Network__
 
 Selected papers
 ======
