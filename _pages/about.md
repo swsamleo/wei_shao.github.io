@@ -14,19 +14,10 @@ Previously, Dr Wei Shao was working as a Research Fellow at [CIDDA](https://www.
 Dr Wei Shao obtained PhD in the RMIT supervised by [Prof. Salim](https://fsalim.github.io/) and Dr. Chan. He was awarded the scholarship from [SUPP](https://www.rmit.edu.au/news/all-news/2015/may/making-connections/meet-our-green-team) project. He worked as a Researcher Assistant at the University of Hong Kong from 2012 to 2014 in Computer Science department. He was carrying out an [ITF](http://www.google.com/url?q=http%3A%2F%2Fwww.itf.gov.hk%2Fl-eng%2FWhatsNew.asp%3Ftextmode%3D0&sa=D&sntz=1&usg=AFQjCNELhLKEdHv4J7F9L9gmz-weK58d6g) project. He received the Master of Science ( *pass with distinction* ) in Computer Science (CS) of The University of Hong Kong.
 
 
-#Looking for Talent Students!
-#======
-#Always actively seeking a research intern/visiting student position. Feel free to send your CV to [me](weishao@ucdavis.edu) if you find a match. We provide research visiting student positions to publish high-quality papers in data, AI, Ubiquitous and HCI areas.
-
-#Multiple Research and Open-Source Projects are available for Visiting Students or Collaborations:
-#* __Fairness issues in Deep learning__
-#* __Combinatorial Optimization Problem with Reinforcement Learning/Graph Neural Network__
-#* __Autonomy Traffic using Reinforcement Learning__
-#* __Graph Neural Network__
 
 Selected papers
 ======
-1. Wei Shao, Zhiling Jin, Shuo Wang, Yufan Kang, Xiao Xiao, Hamid Menouar, Zhaofeng Zhang, Junshan Zhang, and Flora Salim. Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Attention. In Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI), 2022 [Pdf](https://www.ijcai.org/proceedings/2022/0309.pdf) [Code](https://github.com/swsamleo/MLSTGCN)
+1. Wei Shao, Zhiling Jin, Shuo Wang, Yufan Kang, Xiao Xiao, Hamid Menouar, Zhaofeng Zhang, Junshan Zhang, and Flora Salim. Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Attention. In Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI), 2022 [[PDF]](https://www.ijcai.org/proceedings/2022/0309.pdf) [Code](https://github.com/swsamleo/MLSTGCN)
 2. Wei Shao, Flora D. Salim, Tao Gu, Ngoc-Thanh Dinh, Jeffrey Chan: Traveling Officer Problem: Managing Car Parking Violations Efficiently Using Sensor Data. IEEE Internet Things J. 5(2): 802-810 (2018) [[PDF]](https://swsamleo.github.io/wei_shao.github.io/files/paper1.pdf) [Code](https://github.com/cruiseresearchgroup/Travelling-Officer-Problem)
 3. Wei Shao, Thuong Nguyen, A. Kai Qin, Moustafa Youssef, Flora D. Salim: BLEDoorGuard: A Device-Free Person Identification Framework Using Bluetooth Signals for Door Access. IEEE Internet Things J. 5(6): 5227-5239 (2018) [[PDF]](https://swsamleo.github.io/wei_shao.github.io/files/paper2.pdf)
 4. Wei Shao, Flora D. Salim, Jeffrey Chan, Kyle Kai Qin, Jiaman Ma, Bradley Feest:
