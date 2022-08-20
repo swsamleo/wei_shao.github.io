@@ -11,7 +11,7 @@ Dr Wei Shao is now working as Postdoc Researcher at UC Davis followed by Prof [J
 
 Previously, Dr Wei Shao was working as a Research Fellow at [CIDDA](https://www.rmit.edu.au/research/centres-collaborations/centre-for-information-discovery-and-data-analytics), RMIT, Australia. He was also working in [ARC Centre of Excellence in Automated Decision Making and Society (ADMS)](https://www.admscentre.org.au/).
 
-Dr Wei Shao obtained PhD in the RMIT supervised by [Prof. Salim](https://fsalim.github.io/) and Dr. Chan. He was awarded the scholarship from [SUPP](https://www.rmit.edu.au/news/all-news/2015/may/making-connections/meet-our-green-team) project. He worked as a Researcher Assistant at the University of Hong Kong from 2012 to 2014 in Computer Science department. He was carrying out an [ITF](http://www.google.com/url?q=http%3A%2F%2Fwww.itf.gov.hk%2Fl-eng%2FWhatsNew.asp%3Ftextmode%3D0&sa=D&sntz=1&usg=AFQjCNELhLKEdHv4J7F9L9gmz-weK58d6g) project. He received the Master of Science ( *pass with distinction* ) in Computer Science (CS) of The University of Hong Kong.
+Dr Wei Shao obtained PhD in the RMIT supervised by [Prof. Salim](https://fsalim.github.io/) and Dr. Chan. He was awarded the scholarship from [SUPP](https://www.rmit.edu.au/news/all-news/2015/may/making-connections/meet-our-green-team) project. He worked as a Researcher Assistant at the University of Hong Kong in Computer Science department. He was carrying out an [ITF](http://www.google.com/url?q=http%3A%2F%2Fwww.itf.gov.hk%2Fl-eng%2FWhatsNew.asp%3Ftextmode%3D0&sa=D&sntz=1&usg=AFQjCNELhLKEdHv4J7F9L9gmz-weK58d6g) project. He received the Master of Science ( *pass with distinction* ) in Computer Science (CS) of The University of Hong Kong.
 
 
 
