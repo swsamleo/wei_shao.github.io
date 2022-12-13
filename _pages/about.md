@@ -25,10 +25,12 @@ OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation
 5. Wei Shao, Thuong Nguyen, A. Kai Qin, Moustafa Youssef, Flora D. Salim: BLEDoorGuard: A Device-Free Person Identification Framework Using Bluetooth Signals for Door Access. IEEE Internet Things J. 5(6): 5227-5239 (2018) [[PDF]](https://swsamleo.github.io/wei_shao.github.io/files/paper2.pdf)
 
 
-Academic Activities
+Academic Services
 ======
 **TPC Member:**
 WACV2023, Neurips2023， SECON2022, CIKM2022, SECON 2021, CIKM2021, AAAI2021, AAAI2020, AusDM2018, ICAC2018, ICCCN2019, WISC2019, ITEM2020
+
+
 **Journal Invited Reviwer**
 Scientific Reports, IEEE Journal on Selected Areas in Communications, ACM Transactions on Spatial Algorithm and Systems, IEEE Transactions on Human-Machine Systems, IEEE Transactions on Communications, IEEE Transactions on ITS, Nature Machine Intelligence, IEEE Internet of Things Journal, CHI2019, PMC, FCS, IJCAI2019, ISWC2019, UbiComp2019, TNNLS, BuildSys2019, TKDE, IEEE Access, ACM Transactions on Intelligent Systems and Technology
 Guest Editor
