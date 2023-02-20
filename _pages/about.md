@@ -33,7 +33,9 @@ WACV2023, Neurips2023， SECON2022, CIKM2022, SECON 2021, CIKM2021, AAAI2021, AA
 
 **Journal Invited Reviwer**
 Scientific Reports, IEEE Journal on Selected Areas in Communications, ACM Transactions on Spatial Algorithm and Systems, IEEE Transactions on Human-Machine Systems, IEEE Transactions on Communications, IEEE Transactions on ITS, Nature Machine Intelligence, IEEE Internet of Things Journal, CHI2019, PMC, FCS, IJCAI2019, ISWC2019, UbiComp2019, TNNLS, BuildSys2019, TKDE, IEEE Access, ACM Transactions on Intelligent Systems and Technology
-Guest Editor
+
+
+**Guest Editor**
 Electronics
 
 Official Supervised Students
