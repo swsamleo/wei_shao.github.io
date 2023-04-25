@@ -2,7 +2,7 @@
 layout: single
 title: "fancy ui"
 permalink: /fancy_UI/
-author_profile: true
+author_profile: false
 ---
 
 <!-- Include your CSS styles here -->
