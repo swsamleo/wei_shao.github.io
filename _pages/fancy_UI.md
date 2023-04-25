@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "fancy ui"
-permalink: /
+permalink: /fancy_UI/
 ---
 
 <!-- Include your CSS styles here -->

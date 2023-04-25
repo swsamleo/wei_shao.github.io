@@ -189,9 +189,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  fancy_UI:
-    output: true
-    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
