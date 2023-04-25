@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "fancy ui"
 permalink: /fancy_UI/
 author_profile: false
