@@ -47,14 +47,12 @@ button {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Progress Bar</title>
-  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div class="progress-bar-container">
     <div class="progress-bar" id="progressBar"></div>
   </div>
   <button onclick="updateProgress()">Update Progress</button>
-  <script src="script.js"></script>
 </body>
 </html>
 
