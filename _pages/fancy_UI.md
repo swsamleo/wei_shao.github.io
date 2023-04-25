@@ -42,7 +42,6 @@ button {
 </style>
 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -53,7 +52,7 @@ button {
   <div class="progress-bar-container">
     <div class="progress-bar" id="progressBar"></div>
   </div>
-  <button onclick="updateProgress()">Update Progress</button>
+  <button onclick="updateProgress()">Update Progresses</button>
 </body>
 </html>
 
