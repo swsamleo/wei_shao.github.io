@@ -28,8 +28,8 @@ OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation
 Academic Services
 ======
 **TPC Member:**
-SECON2023, WACV2023, Neurips2023， SECON2022, CIKM2022, SECON 2021, CIKM2021, AAAI2021, AAAI2020, AusDM2018, ICAC2018, ICCCN2019, WISC2019, ITEM2020
-
+NeurIPS 2023, SECON2023, IJCAI2023, WACV2023, Neurips2022， SECON2022, CIKM2022, SECON 2021, CIKM2021, AAAI2021, 
+AAAI2020, AusDM2018, ICAC2018, ICCCN2019, WISC2019, ITEM2020 
 
 **Journal Invited Reviwer**
 Scientific Reports, IEEE Journal on Selected Areas in Communications, ACM Transactions on Spatial Algorithm and Systems, IEEE Transactions on Human-Machine Systems, IEEE Transactions on Communications, IEEE Transactions on ITS, Nature Machine Intelligence, IEEE Internet of Things Journal, CHI2019, PMC, FCS, IJCAI2019, ISWC2019, UbiComp2019, TNNLS, BuildSys2019, TKDE, IEEE Access, ACM Transactions on Intelligent Systems and Technology
@@ -42,5 +42,5 @@ Official Supervised Students
 ======
 * [Nan Gao](nancygao.com), PhD -- Ubiquitous Computing and HCI, Postdoc Researcher, Tsinghua University 
 * [Arian Prabowo](https://www.arianprabowo.com/home), PhD -- Spatio-Temporal Deep Learning of Trajectories 
-* Kai Qin, PhD  -- Graph Alignment and optimization Principal Researcher, China Southern Power Grid
+* Kai Qin, PhD  -- Graph Alignment and Optimization, Principal Researcher, China Southern Power Grid
 * [Sichen Zhao](https://www.sichenzhao.com/) -- PhD Student -- XAI and Spatio-temporal data mining
