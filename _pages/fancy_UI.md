@@ -93,7 +93,6 @@ const progressPercentage = document.getElementById('progress-percentage');
 
 const arcs = document.getElementById('arcs');
 
-
 const swordProgress = document.getElementById('sword-progress');
 
 for (let i = 0; i < 100; i++) {
@@ -109,10 +108,10 @@ for (let i = 0; i < 100; i++) {
   arcs.appendChild(arcSegment);
 }
 
-function describeArc(x, y, radius, startAngle, endAngle) {
-  const gapAngle = 1; // Add this line to define the gap angle between segments
-  const start = polarToCartesian(x, y, radius, endAngle - gapAngle); // Update this line to subtract gapAngle
-  const end = polarToCartesian(x, y, radius, startAngle + gapAngle); // Update this line to add gapAngle
+function describeArc(x, y, radius, startAngle, endAngle){
+  const gapAngle = 1; 
+  const start = polarToCartesian(x, y, radius, endAngle - gapAngle); 
+  const end = polarToCartesian(x, y, radius, startAngle + gapAngle); 
 
   const largeArcFlag = endAngle - startAngle <= 180 ? '0' : '1';
 
@@ -200,5 +199,4 @@ function updateArc() {
 }
 
 updateArc();
-
 </script>

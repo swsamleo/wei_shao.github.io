@@ -85,7 +85,13 @@
   img {
     max-width: 175px;
     border-radius: 50%;
-
+    border-color: #000000;
+    //width: 100px;
+    //height: 100px;
+    ///* Adjust the image position */
+    //position: relative;
+    //left: 10px;
+    //top: 10px;
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
