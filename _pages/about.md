@@ -7,11 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dr. Wei Shao is currently a Postdoctoral Researcher at UC Davis, where he is working under the guidance of Professor [Junshan Zhang](https://scholar.google.com/citations?user=UtAdFs8AAAAJ&hl=en). Prior to this role, he worked at Arizona State University, where he was also supervised by Professor Zhang. His current research focuses on developing a reinforcement learning-based simulation platform to investigate artificial intelligence algorithms in mix-road autonomy cars, with a specific focus on edge computing and reinforcement learning with autonomous vehicles. Dr. Shao's research interests include fairness issues in graph neural networks, wireless sensing, the Internet of Things, and smart cities. He is passionate about addressing real-world problems through innovative research results and enjoys solving problems that have both industrial and research value.
+Dr. Wei Shao, a Research Scientist at CSIRO Data61, is currently engrossed in exploring AI security, network security, graph neural networks, spatio-temporal data mining, reinforcement learning, and the Internet of Things. His previous role as a Postdoctoral Researcher at UC Davis, under the mentorship of Professor [Junshan Zhang](https://scholar.google.com/citations?user=UtAdFs8AAAAJ&hl=en), was preceded by a similar collaboration at Arizona State University. His fascination lies in developing a simulation platform leveraging reinforcement learning to scrutinize AI algorithms in mixed-road autonomous cars. His research, deeply rooted in edge computing and reinforcement learning with autonomous vehicles, is broadened by his interests in fairness in graph neural networks, wireless sensing, smart cities, and the Internet of Things.
 
-Previously, Dr. Shao worked as a Research Fellow at the [Centre for Information Discovery and Data Analytics (CIDDA)](https://www.rmit.edu.au/research/centres-collaborations/centre-for-information-discovery-and-data-analytics) at RMIT, Australia, and was also associated with the [ARC Centre of Excellence in Automated Decision Making and Society (ADMS)](https://www.admscentre.org.au/).
 
-Dr. Shao obtained his Ph.D. from RMIT, where he was supervised by Professor [Salim](https://fsalim.github.io/) and Dr. Chan and was awarded a scholarship from the Sustainable Urban Precincts Program (SUPP) project. He also served as a Research Assistant in the Computer Science Department at the University of Hong Kong, where he carried out an Innovation and Technology Fund (ITF) project. Dr. Shao received a Master of Science in Computer Science from the University of Hong Kong, where he graduated with distinction.
+Dr. Shao is driven by his desire to solve real-world problems through inventive research outcomes. He relishes challenges that offer both industrial relevance and research value. In the past, he has contributed as a Research Fellow at the Centre for Information Discovery and Data Analytics (CIDDA) at RMIT, Australia, and was part of the ARC Centre of Excellence in Automated Decision Making and Society (ADMS).
+
+
+RMIT, where he was supervised by Professor [Salim](https://fsalim.github.io/) and Dr. Chan, is also where he obtained his Ph.D., thanks to a scholarship from the Sustainable Urban Precincts Program (SUPP) project. He was a Research Assistant at the University of Hong Kong, where he participated in an Innovation and Technology Fund (ITF) project, and also earned his Master of Science in Computer Science with distinction.
+
 
 
 
