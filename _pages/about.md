@@ -1,21 +1,27 @@
 ---
 permalink: /
-title: "SHORT BIO"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-Dr. Wei Shao, a Research Scientist at CSIRO Data61, is currently engrossed in exploring AI security, network security, graph neural networks, spatio-temporal data mining, reinforcement learning, and the Internet of Things. His previous role as a Postdoctoral Researcher at UC Davis, under the mentorship of Professor [Junshan Zhang](https://scholar.google.com/citations?user=UtAdFs8AAAAJ&hl=en), was preceded by a similar collaboration at Arizona State University. His fascination lies in developing a simulation platform leveraging reinforcement learning to scrutinize AI algorithms in mixed-road autonomous cars. His research, deeply rooted in edge computing and reinforcement learning with autonomous vehicles, is broadened by his interests in fairness in graph neural networks, wireless sensing, smart cities, and the Internet of Things.
+Dr. Wei Shao, currently a Research Scientist at CSIRO Data61, delves into a myriad of areas including network security, graph neural networks, spatio-temporal data mining, reinforcement learning, and the Internet of Things. Before this, he served as a Postdoctoral Researcher at UC Davis, mentored by Professor [Junshan Zhang](https://scholar.google.com/citations?user=UtAdFs8AAAAJ&hl=en), following a similar collaboration at Arizona State University. One of Dr. Shao's standout projects involves creating a simulation platform that uses reinforcement learning to analyze AI algorithms in mixed-road autonomous vehicles. While his research primarily focuses on edge computing and reinforcement learning in autonomous vehicles, it also encompasses fairness in graph neural networks, wireless sensing, smart cities, and the Internet of Things.
 
 
-Dr. Shao is driven by his desire to solve real-world problems through inventive research outcomes. He relishes challenges that offer both industrial relevance and research value. In the past, he has contributed as a Research Fellow at the Centre for Information Discovery and Data Analytics (CIDDA) at RMIT, Australia, and was part of the ARC Centre of Excellence in Automated Decision Making and Society (ADMS).
+Motivated by a passion to address real-world challenges, Dr. Shao seeks opportunities that merge industrial relevance with academic significance. He has previously contributed as a Research Fellow at RMIT's Centre for Information Discovery and Data Analytics (CIDDA) and was affiliated with the ARC Centre of Excellence in Automated Decision Making and Society (ADMS).
 
 
-RMIT, where he was supervised by Professor [Salim](https://fsalim.github.io/) and Dr. Chan, is also where he obtained his Ph.D., thanks to a scholarship from the Sustainable Urban Precincts Program (SUPP) project. He was a Research Assistant at the University of Hong Kong, where he participated in an Innovation and Technology Fund (ITF) project, and also earned his Master of Science in Computer Science with distinction.
+Dr. Shao earned his Ph.D. from RMIT under the guidance of Professor [Flora Salim](https://fsalim.github.io/) and Dr. Chan, supported by a scholarship from the Sustainable Urban Precincts Program (SUPP) project. Additionally, he holds a Master of Science in Computer Science with distinction from the University of Hong Kong, where he also served as a Research Assistant and contributed to an Innovation and Technology Fund (ITF) project.
 
 
+
+News
+======
+* 12/23: 
+* 9/23: One paper is accepted by ICDM (Core A*, CCF B) as the leading author!
+* 6/23: Join in data61 CSIRO as a IWY (Impossible Without you) Research Scientist!  
 
 
 Selected papers
@@ -39,11 +45,11 @@ Scientific Reports, IEEE Journal on Selected Areas in Communications, ACM Transa
 
 
 **Guest Editor**
-Electronics, Frontier in Sustainable Cities
+Sensors, Electronics, Frontier in Sustainable Cities
 
 Official Supervised Students
 ======
-* [Nan Gao](nancygao.com), PhD -- Ubiquitous Computing and HCI, Postdoc Researcher, Tsinghua University 
+* [Nan Gao](https://nancygao.com/), PhD -- Ubiquitous Computing and HCI, Postdoc Researcher, Tsinghua University 
 * [Arian Prabowo](https://www.arianprabowo.com/home), PhD -- Spatio-Temporal Deep Learning of Trajectories 
 * Kai Qin, PhD  -- Graph Alignment and Optimization, Principal Researcher, China Southern Power Grid
 * [Sichen Zhao](https://www.sichenzhao.com/) -- PhD Student -- XAI and Spatio-temporal data mining
