@@ -19,7 +19,7 @@ Dr. Shao earned his Ph.D. from RMIT under the guidance of Professor [Flora Salim
 
 News
 ======
-* 12/23: 
+* 12/23: I was awarded a grant from the **AWS** and **RMIT University**, aiming to significantly advance cybersecurity in network infrastructures (Principal Investigator).
 * 9/23: One paper is accepted by ICDM (Core A*, CCF B) as the leading author!
 * 6/23: Join in data61 CSIRO as a IWY (Impossible Without you) Research Scientist!  
 
