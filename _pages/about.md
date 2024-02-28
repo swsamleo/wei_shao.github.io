@@ -35,8 +35,7 @@ OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation
 
 Academic Services
 ======
-**Selected TPC Member:**
-
+**Selected TPC Member:**\
 KDD '24\
 ICML '24, 23\
 ICLR '24 \
@@ -52,17 +51,17 @@ EAAI '23 \
 CHI' 19
 
 **Selected Journal Invited Reviwer:**\
-IEEE Journal on Selected Areas in Communications\
-ACM Transactions on Spatial Algorithm and Systems \
-IEEE Transactions on Knowledge and Data Engineering\
-IEEE Transactions on Human-Machine Systems\
-IEEE Transactions on Communications\ 
-IEEE Transactions on Intelligent Transportation Systems\
-ACM Transactions on Intelligent Systems and Technology\
+IEEE Journal on Selected Areas in Communications (JSAC)\
+ACM Transactions on Spatial Algorithm and Systems (TSAS)\
+IEEE Transactions on Knowledge and Data Engineering (TKDE)\
+IEEE Transactions on Human-Machine Systems (THMS)\
+IEEE Transactions on Communications (TOC)\
+IEEE Transactions on Intelligent Transportation Systems (TITS)\
+ACM Transactions on Intelligent Systems and Technology (TIST)\
 Nature Machine Intelligence\
-IEEE Internet of Things Journal\
-IEEE Transactions on Neural Networks and Learning Systems\
-ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+IEEE Internet of Things Journal (IoTJ)\
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)\
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp)
 
 
 **Guest Editor**\
