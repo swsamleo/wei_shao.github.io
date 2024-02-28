@@ -19,7 +19,7 @@ I earned my Ph.D. from RMIT University, under the guidance of Professor [Flora S
 News
 ======
 * 12/23: I was awarded a grant from the **AWS** and **RMIT University**, aiming to significantly advance cybersecurity in network infrastructures (Principal Investigator).
-* 9/23: One paper is accepted by ICDM (Core A*, CCF B) as the leading author!
+* 9/23: Our paper is accepted by ICDM (Core A*, CCF B)!
 * 6/23: Join in data61 CSIRO as a IWY (Impossible Without you) Research Scientist!  
 
 
@@ -48,7 +48,7 @@ WACV '23 \
 SECON '23, 22, 21\
 SIGSPATIAL' 23, 22\
 EAAI '23 \
-CHI' 19
+CHI '19
 
 **Selected Journal Invited Reviwer:**\
 IEEE Journal on Selected Areas in Communications (JSAC)\
@@ -72,4 +72,4 @@ Official Supervised Students
 * [Nan Gao](https://nancygao.com/), PhD -- Ubiquitous Computing and HCI, Postdoc Researcher, Tsinghua University 
 * [Arian Prabowo](https://www.arianprabowo.com/home), PhD -- Spatio-Temporal Deep Learning of Trajectories 
 * Kai Qin, PhD  -- Graph Alignment and Optimization, Principal Researcher, China Southern Power Grid
-* [Sichen Zhao](https://www.sichenzhao.com/) -- PhD Student -- XAI and Spatio-temporal data mining
+* [Sichen Zhao](https://www.sichenzhao.com/) -- PhD -- XAI and Spatio-temporal data mining
