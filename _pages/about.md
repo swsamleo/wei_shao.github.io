@@ -35,15 +35,37 @@ OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation
 
 Academic Services
 ======
-**TPC Member:**
-NeurIPS 2023, SECON2023, IJCAI2023, WACV2023, Neurips2022， SECON2022, CIKM2022, SECON 2021, CIKM2021, AAAI2021, 
-AAAI2020, AusDM2018, ICAC2018, ICCCN2019, WISC2019, ITEM2020 
+**Selected TPC Member:**
 
-**Journal Invited Reviwer**
-Scientific Reports, IEEE Journal on Selected Areas in Communications, ACM Transactions on Spatial Algorithm and Systems, IEEE Transactions on Human-Machine Systems, IEEE Transactions on Communications, IEEE Transactions on ITS, Nature Machine Intelligence, IEEE Internet of Things Journal, CHI2019, PMC, FCS, IJCAI2019, ISWC2019, UbiComp2019, TNNLS, BuildSys2019, TKDE, IEEE Access, ACM Transactions on Intelligent Systems and Technology
+KDD '24\
+ICML '24, 23\
+ICLR '24 \
+NeurIPS '23, 22\
+WWW' 24\
+IJCAI '24, 23, 19\
+AAAI '21, 20\
+CIKM '23, 22 \
+WACV '23 \
+SECON '23, 22, 21\
+SIGSPATIAL' 23, 22\
+EAAI '23 \
+CHI' 19
+
+**Selected Journal Invited Reviwer:**\
+IEEE Journal on Selected Areas in Communications\
+ACM Transactions on Spatial Algorithm and Systems \
+IEEE Transactions on Knowledge and Data Engineering\
+IEEE Transactions on Human-Machine Systems\
+IEEE Transactions on Communications\ 
+IEEE Transactions on Intelligent Transportation Systems\
+ACM Transactions on Intelligent Systems and Technology\
+Nature Machine Intelligence\
+IEEE Internet of Things Journal\
+IEEE Transactions on Neural Networks and Learning Systems\
+ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
 
 
-**Guest Editor**
+**Guest Editor**\
 Sensors, Electronics, Frontier in Sustainable Cities
 
 Official Supervised Students
