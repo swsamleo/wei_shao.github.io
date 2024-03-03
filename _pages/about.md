@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently engaged as a Research Scientist at CSIRO Data61, where I explore a broad spectrum of topics such as cybersecurity, graph neural networks, spatio-temporal data mining, reinforcement learning, and the Internet of Things (IoT). Previously, I held a position as a Postdoctoral Researcher at UC Davis, under the mentorship of IEEE Fellow [Junshan Zhang](https://scholar.google.com/citations?user=UtAdFs8AAAAJ&hl=en), following a similar stint at Arizona State University. A notable project of mine involves the development of a simulation platform designed to evaluate AI algorithms for autonomous vehicles in mixed-traffic scenarios. My research agenda primarily targets edge computing and reinforcement learning applications in autonomous vehicle systems, but it also spans across fairness in graph neural networks, wireless sensing technologies, smart city infrastructures, and the IoT.
+I am currently engaged as a Research Scientist at [CSIRO Data61](https://research.csiro.au/cybersecurity-quantum-systems/people/staff/), where I explore a broad spectrum of topics such as cybersecurity, graph neural networks, spatio-temporal data mining, reinforcement learning, and the Internet of Things (IoT). Previously, I held a position as a Postdoctoral Researcher at UC Davis, under the mentorship of IEEE Fellow [Junshan Zhang](https://scholar.google.com/citations?user=UtAdFs8AAAAJ&hl=en), following a similar stint at Arizona State University. A notable project of mine involves the development of a simulation platform designed to evaluate AI algorithms for autonomous vehicles in mixed-traffic scenarios. My research agenda primarily targets edge computing and reinforcement learning applications in autonomous vehicle systems, but it also spans across fairness in graph neural networks, wireless sensing technologies, smart city infrastructures, and the IoT.
 
 Driven by the objective to tackle real-world challenges, I actively seek roles that bridge the gap between industrial application and academic inquiry. My past roles include serving as a Research Fellow at RMIT’s Centre for Information Discovery and Data Analytics (CIDDA), with an affiliation to the ARC Centre of Excellence in Automated Decision-Making and Society (ADMS).
 
@@ -19,8 +19,8 @@ I earned my Ph.D. from RMIT University, under the guidance of Professor [Flora S
 News
 ======
 * 12/23: I was awarded a grant from the **AWS** and **RMIT University**, aiming to significantly advance cybersecurity in network infrastructures (Principal Investigator).
-* 9/23: Our paper is accepted by ICDM (Core A*, CCF B)!
-* 6/23: Join in data61 CSIRO as a IWY (Impossible Without you) Research Scientist!  
+* 9/23: Our paper is accepted by ICDM (Core A*, CCF B)
+* 6/23: Join in data61 CSIRO as a IWY (Impossible Without you) Research Scientist
 
 
 Selected papers
