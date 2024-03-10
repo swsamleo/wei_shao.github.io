@@ -10,10 +10,6 @@ redirect_from:
 
 I am currently engaged as a Research Scientist at [CSIRO Data61](https://research.csiro.au/cybersecurity-quantum-systems/people/staff/), where I explore a broad spectrum of topics such as cybersecurity, graph neural networks, spatio-temporal data mining, reinforcement learning, and the Internet of Things (IoT). Previously, I held a position as a Postdoctoral Researcher at UC Davis, under the mentorship of IEEE Fellow [Junshan Zhang](https://scholar.google.com/citations?user=UtAdFs8AAAAJ&hl=en), following a similar stint at Arizona State University. A notable project of mine involves the development of a simulation platform designed to evaluate AI algorithms for autonomous vehicles in mixed-traffic scenarios. My research agenda primarily targets edge computing and reinforcement learning applications in autonomous vehicle systems, but it also spans across fairness in graph neural networks, wireless sensing technologies, smart city infrastructures, and the IoT.
 
-Driven by the objective to tackle real-world challenges, I actively seek roles that bridge the gap between industrial application and academic inquiry. My past roles include serving as a Research Fellow at RMIT’s Centre for Information Discovery and Data Analytics (CIDDA), with an affiliation to the ARC Centre of Excellence in Automated Decision-Making and Society (ADMS).
-
-I earned my Ph.D. from RMIT University, under the guidance of Professor [Flora Salim](https://fsalim.github.io/) and Dr. Chan, funded by a scholarship from the Sustainable Urban Precincts Program (SUPP) project. Additionally, I hold a Master of Science in Computer Science, awarded with distinction from the University of Hong Kong, where I also contributed as a Research Assistant to a project financed by the Innovation and Technology Fund (ITF).
-
 
 
 News
