@@ -54,6 +54,7 @@ For application guidelines and submission, visit our website or contact [wei.sha
 Embark on your research journey with us and make a significant impact in your field. We welcome ambitious and talented students to our collaborative academic community.
 
 
+<span style="color:red">Hope work with you in the future!</span>
 
 
 
