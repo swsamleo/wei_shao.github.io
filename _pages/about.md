@@ -8,7 +8,53 @@ redirect_from:
   - /about.html
 ---
 
-I am currently engaged as a Research Scientist at [CSIRO Data61](https://research.csiro.au/cybersecurity-quantum-systems/people/staff/), where I explore a broad spectrum of topics such as cybersecurity, graph neural networks, spatio-temporal data mining, reinforcement learning, and the Internet of Things (IoT). Previously, I held a position as a Postdoctoral Researcher at UC Davis, under the mentorship of IEEE Fellow [Junshan Zhang](https://scholar.google.com/citations?user=UtAdFs8AAAAJ&hl=en), following a similar stint at Arizona State University. A notable project of mine involves the development of a simulation platform designed to evaluate AI algorithms for autonomous vehicles in mixed-traffic scenarios. My research agenda primarily targets edge computing and reinforcement learning applications in autonomous vehicle systems, but it also spans across fairness in graph neural networks, wireless sensing technologies, smart city infrastructures, and the IoT.
+I am currently engaged as a Research Scientist at [CSIRO Data61](https://research.csiro.au/cybersecurity-quantum-systems/people/staff/). where I explore a broad spectrum of topics such as cybersecurity, graph neural networks, spatio-temporal data mining, reinforcement learning, and the Internet of Things (IoT). Previously, I held a position as a Postdoctoral Researcher at UC Davis, under the mentorship of IEEE Fellow [Junshan Zhang](https://scholar.google.com/citations?user=UtAdFs8AAAAJ&hl=en), following a similar stint at Arizona State University. A notable project of mine involves the development of a simulation platform designed to evaluate AI algorithms for autonomous vehicles in mixed-traffic scenarios. My research agenda primarily targets edge computing and reinforcement learning applications in autonomous vehicle systems, but it also spans across fairness in graph neural networks, wireless sensing technologies, smart city infrastructures, and the IoT.
+
+
+
+## PhD Student Recruitment: Australia & USA Collaborative Program
+
+Exciting PhD positions are available in a prestigious research program co-supervised with leading universities across Australia and the USA. This program offers a unique blend of international academic collaboration, cutting-edge research, and scholarship opportunities.
+
+### Partner Universities:
+- Australian National University (ANU)
+- University of New South Wales (UNSW)
+- Monash University
+- Royal Melbourne Institute of Technology (RMIT)
+- Macquarie University
+- Latrobe University
+- University of California, Davis (UC Davis)
+- University of Houston
+
+### Minimum Applicant Requirements:
+- **Language:** IELTS overall score ≥ 6.5, with no band < 6.0.
+- **Research:** At least one CORE A* publication (First author/leading contributor). (Essential)
+- **Academics:** GPA ≥ 80/100.
+
+> **Note:** Requirements listed are the minimum; specific universities may have additional criteria.
+
+### Scholarships:
+- **General:** Full scholarships for outstanding candidates.
+- **Australian PR/Citizens:** AU$45,000/year scholarship plus tuition fee waiver.
+
+> **Note:** We also welcome self-funded and CSC students. 
+
+### Program Highlights:
+- **Global Network:** Collaborate with esteemed faculty and peers worldwide.
+- **Diverse Research:** Engage in interdisciplinary projects with real-world impact.
+
+### Application Process:
+Submit your CV, motivation letter, transcripts, IELTS certificate, and publication list. Ensure your application showcases your research interests, achievements, and eligibility for the program.
+
+### How to Apply:
+For application guidelines and submission, visit our website or contact [wei.shao@data61.csiro.au].
+
+
+
+Embark on your research journey with us and make a significant impact in your field. We welcome ambitious and talented students to our collaborative academic community.
+
+
+
 
 
 
