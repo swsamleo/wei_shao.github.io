@@ -54,18 +54,14 @@ Exciting PhD positions are available in a prestigious research program co-superv
 - **Diverse Research:** Engage in interdisciplinary projects with real-world impact.
 
 ### Application Process:
-Submit your CV, motivation letter, transcripts, IELTS certificate, and publication list. Ensure your application showcases your research interests, achievements, and eligibility for the program.
+Submit your CV, motivation letter, and publication list. Ensure your application showcases your research interests, achievements, and eligibility for the program.
 
 ### How to Apply:
-For application guidelines and submission, visit our website or contact [wei.shao@data61.csiro.au].
+For application guidelines and submission, contact [wei.shao@data61.csiro.au].
 
 
 
 Embark on your research journey with us and make a significant impact in your field. We welcome ambitious and talented students to our collaborative academic community.
-
-
-<span style="color:red">Hope work with you in the future!</span>
-
 
 
 
