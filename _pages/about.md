@@ -18,7 +18,7 @@ body {
 
 
 
-I am currently engaged as an IWY (Impossible Without You) Research Scientist at [CSIRO Data61](https://research.csiro.au/cybersecurity-quantum-systems/people/staff/). Previously, I held a position as a Postdoctoral Researcher at UC Davis, under the mentorship of IEEE Fellow [Junshan Zhang](https://scholar.google.com/citations?user=UtAdFs8AAAAJ&hl=en), following a similar stint at Arizona State University.
+I am currently engaged as an IWY (Impossible Without You) Research Scientist at [CSIRO Data61](https://research.csiro.au/cybersecurity-quantum-systems/people/staff/), visiting researcher at UC Davis and adjunct fellow at RMIT University. Previously, I held a position as a Postdoctoral Researcher at UC Davis, under the mentorship of IEEE Fellow [Junshan Zhang](https://scholar.google.com/citations?user=UtAdFs8AAAAJ&hl=en), following a similar stint at Arizona State University.
 
 
 ### Research Interest
@@ -70,7 +70,9 @@ Embark on your research journey with us and make a significant impact in your fi
 
 
 News
+
 ======
+* 3/24: Our survey paper (IoT security) has been accepted by IEEE Internet of Things Journal.
 * 12/23: I was awarded a grant from the **AWS** and **RMIT University**, aiming to significantly advance cybersecurity in network infrastructures (Principal Investigator).
 * 9/23: Our paper is accepted by ICDM (Core A*, CCF B)
 * 6/23: Join in data61 CSIRO as a IWY (Impossible Without you) Research Scientist
