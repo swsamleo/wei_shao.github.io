@@ -68,11 +68,11 @@ For application guidelines and submission, contact [wei.shao@data61.csiro.au].
 Embark on your research journey with us and make a significant impact in your field. We welcome ambitious and talented students to our collaborative academic community.
 
 
-
-News
-
+<span style="color:red"> News!</span>
 ======
+* 3/24: Our fairness paper has been accepted by GECCO.
 * 3/24: Our survey paper (IoT security) has been accepted by IEEE Internet of Things Journal.
+* 1/24: Our paper about parking avaiablity prediction has been accepted by PMC.
 * 12/23: I was awarded a grant from the **AWS** and **RMIT University**, aiming to significantly advance cybersecurity in network infrastructures (Principal Investigator).
 * 9/23: Our paper is accepted by ICDM (Core A*, CCF B)
 * 6/23: Join in data61 CSIRO as a IWY (Impossible Without you) Research Scientist
