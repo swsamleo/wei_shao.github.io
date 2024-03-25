@@ -12,6 +12,7 @@ redirect_from:
 @import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
 
 body {
+	font-size: 18px;
     font-family: 'Karla', sans-serif;
 }
 </style>
@@ -42,7 +43,7 @@ Exciting PhD positions are available in a prestigious research program co-superv
 
 ### Minimum Applicant Requirements:
 - **Language:** IELTS overall score ≥ 6.5, with no band < 6.0.
-- **Research:** At least one CORE A* publication (First author/leading contributor). (Essential)
+- **Research:** At least one CORE A* publication (First author/leading contributor). <span style="color:red"> Essential!</span>
 - **Academics:** GPA ≥ 80/100.
 
 > **Note:** Requirements listed are the minimum; specific universities may have additional criteria.
@@ -53,9 +54,6 @@ Exciting PhD positions are available in a prestigious research program co-superv
 
 > **Note:** We also welcome self-funded and CSC students. 
 
-### Program Highlights:
-- **Global Network:** Collaborate with esteemed faculty and peers worldwide.
-- **Diverse Research:** Engage in interdisciplinary projects with real-world impact.
 
 ### Application Process:
 Submit your CV, motivation letter, and publication list. Ensure your application showcases your research interests, achievements, and eligibility for the program.
