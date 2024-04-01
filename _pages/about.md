@@ -68,7 +68,8 @@ Embark on your research journey with us and make a significant impact in your fi
 
 <span style="color:red"> News!</span>
 ======
-* 3/24: Our fairness paper has been accepted by GECCO.
+* 3/24: Our paper about discussing the robustness of the fairness has been accepted by Data Mining and Knowledge Discovery  (IF=4.8, Q1, Core A, CCF B)
+* 3/24: Our fairness paper has been accepted by GECCO (Core A).
 * 3/24: Our survey paper (IoT security) has been accepted by IEEE Internet of Things Journal.
 * 1/24: Our paper about parking avaiablity prediction has been accepted by PMC.
 * 12/23: I was awarded a grant from the **AWS** and **RMIT University**, aiming to significantly advance cybersecurity in network infrastructures (Principal Investigator).
