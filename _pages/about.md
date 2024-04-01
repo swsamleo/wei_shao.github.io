@@ -22,48 +22,13 @@ body {
 I am currently engaged as an IWY (Impossible Without You) Research Scientist at [CSIRO Data61](https://research.csiro.au/cybersecurity-quantum-systems/people/staff/), visiting researcher at UC Davis and adjunct fellow at RMIT University. Previously, I held a position as a Postdoctoral Researcher at UC Davis, under the mentorship of IEEE Fellow [Junshan Zhang](https://scholar.google.com/citations?user=UtAdFs8AAAAJ&hl=en), following a similar stint at Arizona State University.
 
 
+I obtained my PhD under the supervision of Prof [Flora Salim](https://www.unsw.edu.au/staff/flora-salim) and Dr Jeffrey Chan, where I focused on spatio-temporal data mining and smart cities. Before that, I obtained my master's degree from the University of Hong Kong with distinction honor.
+
 ### Research Interest
 AI-Cybersecurity, Graph neural networks, Spatio-temporal data mining, Reinforcement learning application, Large Language Model application and the Internet of Things (IoT). 
 
 
 
-## PhD Student Recruitment: Australia & USA Collaborative Program
-
-Exciting PhD positions are available in a prestigious research program co-supervised with leading universities across Australia and the USA. This program offers a unique blend of international academic collaboration, cutting-edge research, and scholarship opportunities.
-
-### Partner Universities:
-- Australian National University (ANU)
-- University of New South Wales (UNSW)
-- Monash University
-- Royal Melbourne Institute of Technology (RMIT)
-- Macquarie University
-- Latrobe University
-- University of California, Davis (UC Davis)
-- University of Houston
-
-### Minimum Applicant Requirements:
-- **Language:** IELTS overall score ≥ 6.5, with no band < 6.0.
-- **Research:** At least one CORE A* publication (First author/leading contributor). <span style="color:red"> Essential!</span>
-- **Academics:** GPA ≥ 80/100.
-
-> **Note:** Requirements listed are the minimum; specific universities may have additional criteria.
-
-### Scholarships:
-- **General:** Full scholarships for outstanding candidates.
-- **Australian PR/Citizens:** AU$45,000/year scholarship plus tuition fee waiver.
-
-> **Note:** We also welcome self-funded and CSC students. 
-
-
-### Application Process:
-Submit your CV, motivation letter, and publication list. Ensure your application showcases your research interests, achievements, and eligibility for the program.
-
-### How to Apply:
-For application guidelines and submission, contact [wei.shao@data61.csiro.au].
-
-
-
-Embark on your research journey with us and make a significant impact in your field. We welcome ambitious and talented students to our collaborative academic community.
 
 
 <span style="color:red"> News!</span>
@@ -121,6 +86,46 @@ ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp)
 
 **Guest Editor**\
 Sensors, Electronics, Frontier in Sustainable Cities
+
+
+## PhD Student Recruitment: Australia & USA Collaborative Program
+
+Exciting PhD positions are available in a prestigious research program co-supervised with leading universities across Australia and the USA. This program offers a unique blend of international academic collaboration, cutting-edge research, and scholarship opportunities.
+
+### Partner Universities:
+- Australian National University (ANU)
+- University of New South Wales (UNSW)
+- Monash University
+- Royal Melbourne Institute of Technology (RMIT)
+- Macquarie University
+- Latrobe University
+- University of California, Davis (UC Davis)
+- University of Houston
+
+### Minimum Applicant Requirements:
+- **Language:** IELTS overall score ≥ 6.5, with no band < 6.0.
+- **Research:** At least one CORE A* publication (First author/leading contributor). <span style="color:red"> Essential!</span>
+- **Academics:** GPA ≥ 80/100.
+
+> **Note:** Requirements listed are the minimum; specific universities may have additional criteria.
+
+### Scholarships:
+- **General:** Full scholarships for outstanding candidates.
+- **Australian PR/Citizens:** AU$45,000/year scholarship plus tuition fee waiver.
+
+> **Note:** We also welcome self-funded and CSC students. 
+
+
+### Application Process:
+Submit your CV, motivation letter, and publication list. Ensure your application showcases your research interests, achievements, and eligibility for the program.
+
+### How to Apply:
+For application guidelines and submission, contact [wei.shao@data61.csiro.au].
+
+
+
+Embark on your research journey with us and make a significant impact in your field. We welcome ambitious and talented students to our collaborative academic community.
+
 
 Official Supervised Students
 ======
