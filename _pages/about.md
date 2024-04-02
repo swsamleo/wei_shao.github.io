@@ -42,6 +42,7 @@ AI-Cybersecurity, Graph neural networks, Spatio-temporal data mining, Reinforcem
 * 6/23: Join in data61 CSIRO as a IWY (Impossible Without you) Research Scientist
 
 
+<!-- 
 Selected papers
 ======
 1. Wei Shao, Zhiling Jin, Shuo Wang, Yufan Kang, Xiao Xiao, Hamid Menouar, Zhaofeng Zhang, Junshan Zhang, and Flora Salim. Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Attention. In Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI), 2022 [[PDF]](https://www.ijcai.org/proceedings/2022/0309.pdf) [Code](https://github.com/swsamleo/MLSTGCN)
@@ -50,6 +51,7 @@ Selected papers
 4. Wei Shao, Flora D. Salim, Jeffrey Chan, Kyle Kai Qin, Jiaman Ma, Bradley Feest:
 OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation Awareness. PerCom 2019: 192-201 [[PDF]](https://swsamleo.github.io/wei_shao.github.io/files/paper3.pdf)
 5. Wei Shao, Thuong Nguyen, A. Kai Qin, Moustafa Youssef, Flora D. Salim: BLEDoorGuard: A Device-Free Person Identification Framework Using Bluetooth Signals for Door Access. IEEE Internet Things J. 5(6): 5227-5239 (2018) [[PDF]](https://swsamleo.github.io/wei_shao.github.io/files/paper2.pdf)
+-->
 
 
 Academic Services
