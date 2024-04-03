@@ -115,7 +115,7 @@ Exciting PhD positions are available in a prestigious research program co-superv
 - **General:** Full scholarships for outstanding candidates.
 - **Australian PR/Citizens:** AU$45,000/year scholarship plus tuition fee waiver.
 
-> **Note:** We also welcome self-funded and CSC students. 
+> **Note:** We welcome self-funded and CSC students. 
 
 
 ### Application Process:
