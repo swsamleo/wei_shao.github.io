@@ -33,6 +33,7 @@ AI-Cybersecurity, Graph neural networks, Spatio-temporal data mining, Reinforcem
 
 <span style="color:red"> News!</span>
 ======
+* 4/24: Our paper has been accepted by IEEE Transactions on Mobile Computing (IEEE TMC, CCF A, Core A*)! This paper first time introduce the fairness into autonomous driving safety.
 * 3/24: Our paper about discussing the robustness of the fairness has been accepted by Data Mining and Knowledge Discovery  (IF=4.8, Q1, Core A, CCF B)
 * 3/24: Our fairness paper has been accepted by GECCO (Core A).
 * 3/24: Our survey paper (IoT security) has been accepted by IEEE Internet of Things Journal.
