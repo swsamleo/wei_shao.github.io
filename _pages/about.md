@@ -19,7 +19,7 @@ body {
 
 
 
-I am currently engaged as an IWY (Impossible Without You) Research Scientist at [CSIRO Data61](https://research.csiro.au/cybersecurity-quantum-systems/people/staff/), visiting researcher at UC Davis and adjunct fellow at RMIT University. Previously, I held a position as a Postdoctoral Researcher at UC Davis, under the mentorship of IEEE Fellow [Junshan Zhang](https://scholar.google.com/citations?user=UtAdFs8AAAAJ&hl=en), following a similar stint at Arizona State University.
+I am currently engaged as an IWY (Impossible Without You) Research Scientist at [CSIRO Data61](https://research.csiro.au/cybersecurity-quantum-systems/people/staff/), an adjunct lecturer at UNSW, visiting researcher at UC Davis and adjunct fellow at RMIT University. Previously, I held a position as a Postdoctoral Researcher at UC Davis, under the mentorship of IEEE Fellow [Junshan Zhang](https://scholar.google.com/citations?user=UtAdFs8AAAAJ&hl=en), following a similar stint at Arizona State University.
 
 
 I obtained my PhD under the supervision of Prof [Flora Salim](https://www.unsw.edu.au/staff/flora-salim) and Dr Jeffrey Chan, where I focused on spatio-temporal data mining and smart cities. Before that, I obtained my master's degree from the University of Hong Kong with distinction honor.
@@ -33,6 +33,7 @@ AI-Cybersecurity, Graph neural networks, Spatio-temporal data mining, Reinforcem
 
 <span style="color:red"> News!</span>
 ======
+* 9/24: I am honored to be the Best Paper Reviewer for SIGKDD conference! 
 * 5/24: Our paper has been accepted by SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD, CCF A. Core A*). This paper first time introduce multi-objective reinforcement learning on spatio-temporal early prediction problem. 
 * 4/24: Our paper has been accepted by IEEE Transactions on Mobile Computing (IEEE TMC, CCF A, Core A*)! This paper first time introduce the fairness into autonomous driving safety.
 * 3/24: Our paper about discussing the robustness of the fairness has been accepted by Data Mining and Knowledge Discovery  (IF=4.8, Q1, Core A, CCF B)
@@ -59,17 +60,17 @@ OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation
 Academic Services
 ======
 **Selected TPC Member:**\
-KDD '24\
+KDD '25, 24\
 ICML '24, 23\
-ICLR '24 \
+ICLR '25, 24 \
 NeurIPS '24, 23, 22\
-WWW' 24\
+WWW ' 24\
 IJCAI '24, 23, 19\
-AAAI '21, 20\
+AAAI '25, 21, 20\
 ECML-PKDD '24\
 CIKM '24, 23, 22 \
 WACV '23 \
-SECON '23, 22, 21\
+SECON '24, 23, 22, 21\
 SIGSPATIAL' 23, 22\
 EAAI '23 \
 CHI '19

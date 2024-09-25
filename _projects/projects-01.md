@@ -4,5 +4,3 @@ excerpt: "The Mornington Peninsula Shire (MPS) has developed a Smart Technology 
 
 collection: projects
 ---
-
-This is for test
