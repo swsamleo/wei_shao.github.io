@@ -61,9 +61,9 @@ Academic Services
 ======
 **Selected TPC Member:**\
 KDD '25, 24\
-ICML '24, 23\
+ICML '25, 24, 23\
 ICLR '25, 24 \
-NeurIPS '24, 23, 22\
+NeurIPS '25, 24, 23, 22\
 WWW ' 24\
 IJCAI '24, 23, 19\
 AAAI '25, 21, 20\
@@ -116,7 +116,7 @@ Exciting PhD positions are available in a prestigious research program co-superv
 
 ### Scholarships:
 - **General:** Full scholarships for outstanding candidates.
-- **Australian PR/Citizens:** AU$45,000/year scholarship plus tuition fee waiver.
+- **Australian PR/Citizens:** AU$47,000/year scholarship plus tuition fee waiver.
 
 > **Note:** We welcome self-funded and CSC students. 
 
@@ -138,3 +138,4 @@ Official Supervised Students
 * [Arian Prabowo](https://www.arianprabowo.com/home), PhD -- Spatio-Temporal Deep Learning of Trajectories 
 * Kai Qin, PhD  -- Graph Alignment and Optimization, Principal Researcher, China Southern Power Grid
 * [Sichen Zhao](https://www.sichenzhao.com/) -- PhD -- XAI and Spatio-temporal data mining
+* Natasha Galea, PhD student
