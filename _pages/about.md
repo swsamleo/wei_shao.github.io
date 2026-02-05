@@ -60,10 +60,13 @@ OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation
 
 Academic Services
 ======
+**Selected Senior Program Committee (SPC):**  
+IJCAI ‘26
+
 **Selected TPC Member:**\
-KDD '25, 24\
+KDD '26, 25, 24\
 ICML '25, 24, 23\
-ICLR '25, 24 \
+ICLR '26, 25, 24 \
 NeurIPS '25, 24, 23, 22\
 WWW ' 24\
 IJCAI '24, 23, 19\
