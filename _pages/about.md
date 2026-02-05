@@ -141,3 +141,7 @@ Official Supervised Students
 * [Sichen Zhao](https://www.sichenzhao.com/) -- PhD -- XAI and Spatio-temporal data mining
 * Natasha Galea, PhD student
 * Brianna Mercer, PhD student
+
+---
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=swsamleo.wei_shao.github.io)
