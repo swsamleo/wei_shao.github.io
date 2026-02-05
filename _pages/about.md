@@ -93,9 +93,6 @@ IEEE Transactions on Neural Networks and Learning Systems (TNNLS)\
 ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp)
 
 
-**Guest Editor**\
-Sensors, Electronics, Frontier in Sustainable Cities
-
 
 ## PhD Student Recruitment: Australia & USA Collaborative Program
 
@@ -120,7 +117,7 @@ Exciting PhD positions are available in a prestigious research program co-superv
 
 ### Scholarships:
 - **General:** Full scholarships for outstanding candidates.
-- **Australian PR/Citizens:** AU$47,000/year scholarship plus tuition fee waiver.
+- **Australian PR/Citizens:** AU$49,000/year scholarship plus tuition fee waiver.
 
 > **Note:** We welcome self-funded and CSC students. 
 
@@ -143,3 +140,4 @@ Official Supervised Students
 * Kai Qin, PhD  -- Graph Alignment and Optimization, Principal Researcher, China Southern Power Grid
 * [Sichen Zhao](https://www.sichenzhao.com/) -- PhD -- XAI and Spatio-temporal data mining
 * Natasha Galea, PhD student
+* Brianna Mercer, PhD student
