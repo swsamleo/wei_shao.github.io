@@ -19,27 +19,26 @@ body {
 
 
 
-I am senior reseaarch scientist working at Data61, CSIRO. Before, I was engaged as an IWY (Impossible Without You) Research Scientist at [CSIRO Data61](https://research.csiro.au/cybersecurity-quantum-systems/people/staff/). Meanwhile, I am an adjunct lecturer at UNSW, visiting researcher at UC Davis and adjunct fellow at RMIT University. Previously, I held a position as a Postdoctoral Researcher at UC Davis, under the mentorship of IEEE Fellow [Junshan Zhang](https://scholar.google.com/citations?user=UtAdFs8AAAAJ&hl=en), following a similar stint at Arizona State University.
+I am senior reseaarch scientist working at Data61, CSIRO. Before, I was engaged as an IWY (Impossible Without You) Research Scientist at [CSIRO Data61](https://research.csiro.au/cybersecurity-quantum-systems/people/staff/). Meanwhile, I am an adjunct lecturer at UNSW, visiting researcher at UC Davis and adjunct senior fellow at RMIT University. Previously, I held a position as a Postdoctoral Researcher at UC Davis, under the mentorship of IEEE Fellow [Junshan Zhang](https://scholar.google.com/citations?user=UtAdFs8AAAAJ&hl=en), following a similar stint at Arizona State University.
 
 
 I obtained my PhD under the supervision of Prof [Flora Salim](https://www.unsw.edu.au/staff/flora-salim) and Dr Jeffrey Chan, where I focused on spatio-temporal data mining and smart cities. Before that, I obtained my master's degree from the University of Hong Kong with distinction honor.
 
 ### Research Interest
-AI-Cybersecurity, Graph neural networks, Spatio-temporal data mining, Reinforcement learning application, Large Language Model application and the Internet of Things (IoT). 
-
-
+AI4Cyber, AI-security, Spatio-temporal data mining, Reinforcement learning application, Internet of Things (IoT). 
 
 
 
 <span style="color:red"> News!</span>
 ======
+* 1/26: I am hornored to be selected as SPC at IJCAI2026.
+* 11/25: I received a kick-start program grant to collaborate with Cyberoo.AI on exploring AI techniques for detecting phishing and brand abuse.
+* 11/25: I am honored to be appointed as Adjunct Senior Fellow in the School of Computing Technologies, RMIT University.
 * 7/25: I am promoted to the senior research scientist at data61, CSIRO.
 * 9/24: I am honored to be the Best Paper Reviewer for SIGKDD conference! 
 * 5/24: Our paper has been accepted by SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD, CCF A. Core A*). This paper first time introduce multi-objective reinforcement learning on spatio-temporal early prediction problem. 
 * 4/24: Our paper has been accepted by IEEE Transactions on Mobile Computing (IEEE TMC, CCF A, Core A*)! This paper first time introduce the fairness into autonomous driving safety.
 * 3/24: Our paper about discussing the robustness of the fairness has been accepted by Data Mining and Knowledge Discovery  (IF=4.8, Q1, Core A, CCF B)
-* 3/24: Our fairness paper has been accepted by GECCO (Core A).
-* 3/24: Our survey paper (IoT security) has been accepted by IEEE Internet of Things Journal.
 * 1/24: Our paper about parking avaiablity prediction has been accepted by PMC.
 * 12/23: I was awarded a grant from the **AWS** and **RMIT University**, aiming to significantly advance cybersecurity in network infrastructures (Principal Investigator).
 * 9/23: Our paper is accepted by ICDM (Core A*, CCF B)
@@ -68,9 +67,9 @@ KDD '26, 25, 24\
 ICML '25, 24, 23\
 ICLR '26, 25, 24 \
 NeurIPS '25, 24, 23, 22\
-WWW ' 24\
+WWW ' 26, 25, 24\
 IJCAI '24, 23, 19\
-AAAI '25, 21, 20\
+AAAI '26, 25, 21, 20\
 ECML-PKDD '24\
 CIKM '24, 23, 22 \
 WACV '23 \
@@ -99,6 +98,7 @@ ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp)
 Exciting PhD positions are available in a prestigious research program co-supervised with leading universities across Australia and the USA. This program offers a unique blend of international academic collaboration, cutting-edge research, and scholarship opportunities.
 
 ### Partner Universities:
+- The University of Melbourne (UOM)
 - Australian National University (ANU)
 - University of New South Wales (UNSW)
 - Monash University
