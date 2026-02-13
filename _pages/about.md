@@ -135,12 +135,12 @@ Embark on your research journey with us and make a significant impact in your fi
 
 Official Supervised Students
 ======
-* [Nan Gao](https://nancygao.com/), PhD -- Ubiquitous Computing and HCI, Postdoc Researcher, Tsinghua University 
-* [Arian Prabowo](https://www.arianprabowo.com/home), PhD -- Spatio-Temporal Deep Learning of Trajectories 
-* Kai Qin, PhD  -- Graph Alignment and Optimization, Principal Researcher, China Southern Power Grid
-* [Sichen Zhao](https://www.sichenzhao.com/) -- PhD -- XAI and Spatio-temporal data mining
-* Natasha Galea, PhD student
-* Brianna Mercer, PhD student
+* [Nan Gao](https://nancygao.com/), PhD completed in 2022 -- "Human Behaviour Sensing and Pro ling in the Wild", Associate Professor, Nankai University 
+* [Arian Prabowo](https://www.arianprabowo.com/home), PhD completed in 2023 -- "Spatio-Temporal Deep Learning of Trajectories" Research Fellow, UNSW
+* Kai Qin, PhD completed in 2024 -- "Optimization of learning on graphs and spatio-temporal data", Principal Researcher, China Southern Power Grid
+* [Sichen Zhao](https://www.sichenzhao.com/) -- PhD completed in 2024 -- "Disentangled representation learning for spatio-temporal data"
+* Natasha Galea, 2025- "Securing eCommerce: Designing a Privacy-Preserving, AI-Driven Recommendation Framework"" - PhD student
+* Brianna Mercer, 2025- "Evaluating Robotic Medical Surgery with Multimodal and Responsible AI" PhD student
 
 ---
 
